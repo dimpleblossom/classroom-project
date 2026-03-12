@@ -1,1 +1,8 @@
+body{
+font-family: Arial;
+background-color: lightblue;
+}
 
+h1{
+color: darkblue;
+}
